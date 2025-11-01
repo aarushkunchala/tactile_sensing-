@@ -4,11 +4,11 @@ communicate in living organisms.
 
 - Key Characteristics
 
-   1) Event-Driven Processing**: Unlike conventional sensors that continuously sample data, neuromorphic tactile sensors only generate signals ("spikes") when tactile stimuli change - just like biological touch receptors. This dramatically reduces power consumption and data processing requirements.
+   1) Event-Driven Processing: Unlike conventional sensors that continuously sample data, neuromorphic tactile sensors only generate signals ("spikes") when tactile stimuli change - just like biological touch receptors. This dramatically reduces power consumption and data processing requirements.
 
-   2) Spiking Neural Networks**: Information is encoded as sequences of electrical spikes over time, rather than continuous voltage levels. This allows for more efficient processing of temporal tactile patterns like texture, vibration, and dynamic touch.
+   2) Spiking Neural Networks: Information is encoded as sequences of electrical spikes over time, rather than continuous voltage levels. This allows for more efficient processing of temporal tactile patterns like texture, vibration, and dynamic touch.
 
-   3) Asynchronous Operation**: Each sensor element operates independently and asynchronously, responding to stimuli as they occur rather than waiting for a global clock signal. This enables faster response times and more natural tactile processing.
+   3) Asynchronous Operation: Each sensor element operates independently and asynchronously, responding to stimuli as they occur rather than waiting for a global clock signal. This enables faster response times and more natural tactile processing.
 
 - How It Differs from Traditional Tactile Sensing
 
